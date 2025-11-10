@@ -1,0 +1,13 @@
+# Placeholder CSV file for house prices test data
+# This file should contain the test dataset for house price prediction
+# Should have same columns as train.csv except for the target column (SalePrice)
+# 
+# To use this project:
+# 1. Replace this file with actual house prices test data
+# 2. Ensure column names match training data
+# 3. Update preprocessing scripts if needed
+
+# Example structure:
+# LotArea,YearBuilt,BedroomAbvGr,BathroomAbvGr,TotalBsmtSF,GrLivArea
+# 8450,2003,3,2,856,1710
+# 9600,1976,3,2,1262,1262

@@ -1,0 +1,15 @@
+# Placeholder CSV file for energy efficiency data
+# This file should contain the energy efficiency dataset
+# Common columns: Relative_Compactness, Surface_Area, Wall_Area, Roof_Area,
+# Overall_Height, Orientation, Glazing_Area, Glazing_Area_Distribution,
+# Heating_Load, Cooling_Load
+# 
+# To use this project:
+# 1. Replace this file with actual energy efficiency data
+# 2. Ensure target columns are clearly identified
+# 3. Update preprocessing scripts for correct target selection
+
+# Example structure:
+# Relative_Compactness,Surface_Area,Wall_Area,Roof_Area,Overall_Height,Orientation,Glazing_Area,Glazing_Area_Distribution,Heating_Load,Cooling_Load
+# 0.98,514.5,294.0,110.25,7.0,2,0.0,0,15.55,21.33
+# 0.98,514.5,294.0,110.25,7.0,3,0.0,0,15.55,21.33
